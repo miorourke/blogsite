@@ -4,8 +4,7 @@ authors:
 bio: Blah
 education:
   courses:
-  - Some
-email: "miorourke@me.com"
+  email: "miorourke@me.com"
 interests:
 - R
 name: Michael O'Rourke
